@@ -12,6 +12,8 @@ options {
     timestamps()
   }
 
+	
+	
     stages {
         stage('Setup parameters') {
             steps {
